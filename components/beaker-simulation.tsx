@@ -215,7 +215,7 @@ export function BeakerSimulation() {
               {/* Medical Cross Logo on Bottle (Step 6) */}
               <div className={`absolute inset-0 flex items-center justify-center transition-opacity duration-1000 delay-500 z-30 ${isBottleShape ? "opacity-100 scale-100" : "opacity-0 scale-50"}`}>
                  <div className="w-20 h-20 rounded-full bg-white/10 backdrop-blur-md border-[3px] border-white/40 flex items-center justify-center shadow-[0_10px_20px_rgba(0,0,0,0.3)]">
-                   <div className="text-white font-black text-3xl tracking-tighter drop-shadow-md">70%</div>
+                   <div className="text-white font-black text-3xl tracking-tighter drop-shadow-md">80%</div>
                  </div>
               </div>
             </div>
